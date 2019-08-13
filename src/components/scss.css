@@ -1,0 +1,14 @@
+.button {
+    width: 70px;
+    height: 30px;
+    background: white;
+    font-size: 14px;
+    font-family: 幼圆;
+    float: left;
+    margin-right: 10px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 10px;
+}

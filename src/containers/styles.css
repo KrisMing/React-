@@ -1,0 +1,54 @@
+.fade-enter {
+    opacity: 0;
+    z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 250ms ease-in;
+}
+.tab{
+    padding: 0;
+    list-style: none;
+    height: 25px;
+    margin: 0px;
+}
+.tab li{
+    float: left;
+    margin-right: 20px;
+    color: black;
+}
+.blue{
+    color: black;
+}
+.select{
+    color: blue;
+}
+.image{
+    height: 180px;
+    width: 100%;
+    margin-left: 0;
+}
+.card{
+    width: 175px;
+}
+.tags{
+    width: 100%;
+    height: 80px;
+}
+.ulLeft{
+    width: 175px;
+    padding: 0;
+    float: left;
+    margin: 0;
+}
+
+.ulRight{
+    width: 175px;
+    padding: 0;
+    float: left;
+    margin-left: 10px;
+}
+li {
+    list-style: none;
+}
